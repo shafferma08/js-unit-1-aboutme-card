@@ -1,0 +1,43 @@
+/* ==========================================
+   About Me Card Styles
+   This is done for you. Don't worry about
+   understanding every line yet.
+   ========================================== */
+
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: linear-gradient(135deg, #f0f8ff 0%, #e6e6fa 100%);
+  padding: 40px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.card {
+  background: white;
+  padding: 32px;
+  border-radius: 16px;
+  max-width: 500px;
+  margin: 40px auto;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.card h1 {
+  color: #4a5fc1;
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 28px;
+}
+
+.card p {
+  color: #333;
+  line-height: 1.6;
+  margin: 12px 0;
+  font-size: 16px;
+}
+
+.card .small-text {
+  color: #888;
+  font-size: 13px;
+  font-style: italic;
+  margin-top: 20px;
+}
