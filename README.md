@@ -6,11 +6,11 @@ Your Unit 1 JavaScript project! You'll build a personal "About Me" card that use
 
 1. **Clone this repo** to your computer (or your code editor)
 2. Open the folder in your editor
-3. Open `about-me.html` in a browser to see what you're starting with
+3. Open `index.html` in a browser to see what you're starting with
 
 ## Your Job
 
-### 1. Open `about-me.html`
+### 1. Open `index.html`
 The structure is there, but you need to **add `id` attributes** to the elements inside the card so your JavaScript can find them. You get to pick the id names!
 
 ### 2. Don't touch `styles.css`
@@ -39,7 +39,7 @@ Everything from Unit 1:
 
 ## When You're Done
 
-Open `about-me.html` in a browser. You should see:
+Open `index.html` in a browser. You should see:
 - A greeting with your name
 - Your age in months
 - Something about a hobby or interest
