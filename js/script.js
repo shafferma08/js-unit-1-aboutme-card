@@ -5,7 +5,7 @@
    Follow the instructions below. Each step has a hint
    in the comments. Write YOUR code right below each hint.
 
-   Don't forget: first open about-me.html and add an
+   Don't forget: first open index.html and add an
    id to each thing in the card so your JS can find it!
    ===================================================== */
 
@@ -81,7 +81,7 @@
 
 
 // =====================================================
-// DONE! Save everything and open about-me.html in a browser.
+// DONE! Save everything and open index.html in a browser.
 // If something doesn't work, open the console (F12) and look
 // for errors. Common problems:
 //   - Did you add ids to your HTML?
